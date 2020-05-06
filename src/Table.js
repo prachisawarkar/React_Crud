@@ -43,9 +43,10 @@ const TableHeader = () => {
 			<tr>
 				<th>Name</th>
 				<th>Job</th>
+				<th>Delete</th>
 			</tr>
 		</thead>
-	)
+	);
 }
 
 const TableBody = (props) => {
