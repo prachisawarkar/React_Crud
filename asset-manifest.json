@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/prachisawarkar/React/static/css/main.9447384d.chunk.css",
+    "main.js": "/prachisawarkar/React/static/js/main.27249854.chunk.js",
+    "main.js.map": "/prachisawarkar/React/static/js/main.27249854.chunk.js.map",
+    "runtime-main.js": "/prachisawarkar/React/static/js/runtime-main.72d1307d.js",
+    "runtime-main.js.map": "/prachisawarkar/React/static/js/runtime-main.72d1307d.js.map",
+    "static/js/2.5e478115.chunk.js": "/prachisawarkar/React/static/js/2.5e478115.chunk.js",
+    "static/js/2.5e478115.chunk.js.map": "/prachisawarkar/React/static/js/2.5e478115.chunk.js.map",
+    "index.html": "/prachisawarkar/React/index.html",
+    "precache-manifest.cde08127fb79448e995d80b474a3fc9c.js": "/prachisawarkar/React/precache-manifest.cde08127fb79448e995d80b474a3fc9c.js",
+    "service-worker.js": "/prachisawarkar/React/service-worker.js",
+    "static/css/main.9447384d.chunk.css.map": "/prachisawarkar/React/static/css/main.9447384d.chunk.css.map",
+    "static/js/2.5e478115.chunk.js.LICENSE.txt": "/prachisawarkar/React/static/js/2.5e478115.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72d1307d.js",
+    "static/js/2.5e478115.chunk.js",
+    "static/css/main.9447384d.chunk.css",
+    "static/js/main.27249854.chunk.js"
+  ]
+}
